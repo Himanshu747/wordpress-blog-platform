@@ -47,3 +47,30 @@
 
 
 ![Project Screenshot](screenshots/features.png)
+
+<h1>Blog</h1>
+
+
+
+![Project Screenshot](screenshots/blog.png)
+
+
+<h1>Blog Comments</h1>
+
+![Project Screenshot](screenshots/blog-comments.png)
+
+
+
+<h1>Blog Post Mobile Responsive</h1>
+
+![Project Screenshot](screenshots/blog-mobileview.png)
+
+
+<h1>Blog Mobile Menu Responsive</h1>
+
+![Project Screenshot](screenshots/blog-mobileview-menu.png)
+
+
+<h1>Blog Mobile View Pagination</h1>
+
+![Project Screenshot](screenshots/blog-mobileview-pagination.png)
