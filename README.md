@@ -1,20 +1,22 @@
 <h1> WordPress Blog Website with Customization Template and Theme Integration</h1>
 
-<h2>Wordpress Frontend Features</h2>
+
+<h2>WordPress Frontend Features</h2>
 <ul>
-  <li>Homepage</li>
-  <li>Contact Us</li>
-  <li>About Us</li>
-  <li>Features</li>
-  <li>Blog</li>
+  <li>Homepage: An engaging landing page to showcase the latest posts and categories.</li>
+  <li>Contact Us: A streamlined form to help users get in touch with you.</li>
+  <li>About Us: A space to tell your story and build trust with visitors.</li>
+  <li>Features: Highlights of your unique offerings and benefits.</li>
+  <li>Blog: A customizable blog section for regular content updates.</li>
 </ul>
 
-<h2>Wordpress (Admin Panel)</h2>
+<h2>WordPress (Admin Panel)</h2>
 <ul>
-  <li>Add Post</li>
-  <li>Add Pages</li>
-  <li>Widgets</li>
+  <li>Add Post: Easily create and publish blog posts with rich content options.</li>
+  <li>Add Pages: Manage pages like About, Contact, or any custom page.</li>
+  <li>Widgets: Add dynamic elements to your website effortlessly.</li>
 </ul>
+
 
 
 
@@ -26,6 +28,10 @@
 
 
 ![Project Screenshot](screenshots/homepage.png)
+
+<h2>Homepage Overview</h2>
+<p>The homepage is designed with custom theme integration, ensuring a clean layout and easy navigation that delivers a strong first impression.</p>
+
 
 
 <h1>Contact Us</h1>
